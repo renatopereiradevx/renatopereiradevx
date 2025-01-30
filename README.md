@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web Full Stack Sênior | PHP | Laravel | Vuejs`**
 
----
+
 
 ## 🚀 Sobre Mim
 
@@ -13,7 +13,7 @@ Especialista em Engenharia de Software, graduado em Sistemas de Informação, at
 
 🎓 **Graduação**: Sistemas de Informação - IESAM (2016-2018)
 
----
+
 
 ## 🛠 Habilidades em
 
